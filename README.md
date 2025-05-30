@@ -1,5 +1,5 @@
 # HealthPay - AI-Driven Medical Insurance Claims Processor
-
+ 
 HealthPay is an advanced system for processing medical insurance claims using AI technologies. It automates the analysis of medical documents, extracts relevant information, and makes claim decisions based on document validation.
 
 ## Architecture & Logic
