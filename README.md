@@ -8,7 +8,7 @@ HealthPay is an advanced system for processing medical insurance claims using AI
 
 HealthPay is built as a microservice-based application with a FastAPI backend. The system follows a document-processing workflow architecture with specialized agents for different document types.
 
-### Core Components
+### Core Components 
 
 1. **API Layer** (`app/main.py`)
    - Provides RESTful endpoints for claim processing
